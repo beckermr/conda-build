@@ -1,9 +1,9 @@
 conda-sphinx-theme==0.2.1
 linkify-it-py==2.0.2
 myst-parser==2.0.0
-Pillow==10.0.1
+Pillow==10.3.0
 PyYAML==6.0.1
-requests==2.31.0
+requests==2.32.0
 ruamel.yaml==0.17.32
 Sphinx==7.2.6
 sphinx-argparse==0.4.0
